@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @FernRodriguezCS
-- 👀 I’m interested in creating a difference through programming.
-- 🌱 I’m currently learning app development through REACT.
-- 💞️ I’m looking to collaborate on project ideas.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: My first language was C++.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fernrodriguezcs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fernrodriguezcs&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fernrodriguezcs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!---
-FernRodriguezCS/FernRodriguezCS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
